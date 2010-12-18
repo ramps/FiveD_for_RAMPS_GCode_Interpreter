@@ -1,0 +1,13 @@
+This is a RAMPS configured FiveD firmware. It is intended to stay close to up to date with the official svn firmare.
+
+It's configuration files are currently set for RAMPS, RRS opto endstops, and our thermistor.
+
+Pulled from svn v3903, http://reprap.svn.sourceforge.net/viewvc/reprap/trunk/software/firmware/
+
+
+RAMPS info instructions files etc at http://www.reprap.org/wiki/RAMPS
+
+
+This firmware is not my work. I have only set the configuration files to work out of the box with RAMPS. It is the work of many way greater than me. It is open source by the license chosen by RepRap.org. It is shared at no cost to make the world better.
+
+johnny at ultimachine.com
